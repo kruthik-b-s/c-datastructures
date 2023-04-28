@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.tcc": "c",
+        "complex": "c",
+        "numeric": "c",
+        "istream": "c",
+        "ostream": "c",
+        "*.txx": "c"
+    }
+}
